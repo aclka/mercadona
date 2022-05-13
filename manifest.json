@@ -1,6 +1,4 @@
 {
- "theme_color": "#000000",
- "name": "Mercadona",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +38,7 @@
  ],
  "start_url": "index.htm?installed=true",
  "background_color": "#000000",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "theme_color": "#000000",
+ "name": "Mercadona"
 }
