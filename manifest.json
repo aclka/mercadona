@@ -1,4 +1,9 @@
 {
+ "name": "Mercadona",
+ "background_color": "#000000",
+ "display": "fullscreen",
+ "theme_color": "#000000",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -35,10 +40,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "name": "Mercadona",
- "display": "fullscreen",
- "background_color": "#000000",
- "theme_color": "#000000",
- "start_url": "index.htm?installed=true"
+ ]
 }
