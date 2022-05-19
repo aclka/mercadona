@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
- "background_color": "#000000",
+ "name": "Mercadona",
  "display": "fullscreen",
+ "background_color": "#000000",
  "theme_color": "#000000",
- "name": "Mercadona"
+ "start_url": "index.htm?installed=true"
 }
